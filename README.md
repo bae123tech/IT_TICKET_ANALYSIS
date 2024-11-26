@@ -9,13 +9,6 @@ The **IT Ticket Analysis** project is a data analytics tool designed to extract 
 - **Trend Analysis**: Identify recurring issues and trends over time.
 - **Visualizations**: Graphical representations of key insights for better understanding.
 
-## Technology Stack
-- **Python**: Data analysis and processing.
-- **Pandas**: Data manipulation.
-- **Matplotlib/Seaborn**: Visualization.
-- **SQL**: Data querying (if applicable).
-- **Jupyter Notebook**: Interactive development.
-
 ## How to Use
 1. Clone the repository:
    ```bash
